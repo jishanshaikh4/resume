@@ -1,0 +1,173 @@
+% !TEX program = lualatex
+
+%% MODIFIED BY JISHAN SHAIKH
+%% COPYRIGHT (C) 2019 JISHAN SHAIKH
+%% The MIT License (MIT)
+
+%% The MIT License (MIT)
+%%
+%% Copyright (c) 2015 Daniil Belyakov
+%%
+%% Permission is hereby granted, free of charge, to any person obtaining a copy
+%% of this software and associated documentation files (the "Software"), to deal
+%% in the Software without restriction, including without limitation the rights
+%% to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%% copies of the Software, and to permit persons to whom the Software is
+%% furnished to do so, subject to the following conditions:
+%%
+%% The above copyright notice and this permission notice shall be included in all
+%% copies or substantial portions of the Software.
+%%
+%% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+%% SOFTWARE.
+
+% The font could be set to Windows-specific Calibri by using the 'calibri' option
+\documentclass[]{mcdowellcv}
+
+% For mathematical symbols
+\usepackage{amsmath}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks = true,
+	urlcolor = blue,
+}
+
+% Set applicant's personal data for header
+\name{Jishan Shaikh}
+\address{Hostel - 10 (B - Block) \linebreak Dr. APJ Abdul Kalam Bhawan 
+\linebreak MANIT, Bhopal 462003}
+\contacts{(+91) 84354 - 358XX \linebreak contact@jishan.me \linebreak www.jishan.me}
+
+\begin{document}
+
+	% Print the header
+	\makeheader
+	
+	% Print the content
+	
+	\begin{cvsection}{Education}
+		\begin{cvsubsection}{Bhopal, M.P.}{National Institute of Technology}{2016 -- Present}
+			\begin{itemize}
+				\item Bachelor of Technology in Computer Science \& Engineering. Expected Graduation 2020. \textbf{GGPA: 8.4/10}
+				
+				\item Research Interests \& Expertise: Software Engineering, Machine Learning (DL, CV, and RL), Software Security.
+				
+				%\item Minor Project: JAAM: Web Browser Security Framework. Supervisor: Dr. Deepak Singh Tomar. GPA: 9.79/10
+				
+				%\item Undergraduate Coursework: Operating Systems, Compilers, Software Engineering, Computer Architecture, Algorithms, Artificial Intelligence, Databases, Programming Languages, Data Mining, Computer Networks.
+			\end{itemize}
+		\end{cvsubsection}
+	
+	\begin{cvsubsection}{Bhopal, M.P.}{Board of Secondary Education}{2015}
+		\begin{itemize}
+			\item Intermediate / +2.  Marks: 93.8\%. District Rank 3 and overall rank in the state < 15 among 500 K students.
+			
+			\item Received INSPIRE scholarship by Government of India for being under top 1\% from all across the India. 
+			
+		\end{itemize}
+	\end{cvsubsection}
+
+	\end{cvsection}
+	
+	\begin{cvsection}{Major Academic Projects (Selected)}
+		\begin{cvsubsection}{Web Browser Security Framework}{Security}{github.com/jishanshaikh4/jaam}	
+			\begin{itemize}
+				\item Survey of browser security (attacks and preventives), \& development of framework for security concerns.
+				
+				\item Trained a model for malicious URL detection using Logistic Regression, and developed a tool (Tkinter) for it.
+				
+				\item Technologies: Python and Tkinter.  Minor (CSE-319 \& 329). Dr. Deepak Singh Tomar. GPA: 9.79/10 and 9.38/10
+			\end{itemize}
+		\end{cvsubsection}
+	
+		\begin{cvsubsection}{Image Segmentation Optimization}{Computer Vision}{github.com/jishanshaikh4/is-cv}	
+			\begin{itemize}
+				\item Devised a new technique for supervised and unsupervised image segmentation of state-of-the-art results.
+				
+				\item Paper manuscript ready to be published on CVPR 2020 or ICCV 2020. Published on arXiV (Sooner).
+				
+				\item Technologies: Sklearn, Python, OpenCV, Jupyter notebook. Seminar (CSE-418). Dr. Jyoti Bharti. GPA: 10/10
+			\end{itemize}
+		\end{cvsubsection}
+	
+		\begin{cvsubsection}{Chess AI using Min-Max}{Artificial Intelligence}{github.com/jishanshaikh4/chess}	
+			\begin{itemize}
+				\item Implemented Min-Max algorithm with alpha-beta pruning + Depth Limited Search at d = \{1, 2, 3, 4, 5\}.
+				
+				\item Imparted with positional matrix evaluations for each piece resulting in a player with ELO > 1900 at d = \{4, 5\}.
+				
+				\item Technologies: JavaScript, chess.js, chessboard.js. AI (CSE-327). Dr. Mansi Gyanchandani. GPA: 9.5/10
+			\end{itemize}
+		\end{cvsubsection}
+	
+		\begin{cvsubsection}{School Administration System}{Language (PHP)}{github.com/jishanshaikh4/sas}	
+			\begin{itemize}
+				\item Created a minimally styled system for almost all the school facilities using fundamental PHP programming. 
+				
+				\item Technologies: PHP, HTML, CSS, JavaScript. Java/PHP (CSE-228). Dr. Yatendra LR Sahu. GPA: 10/10 
+			\end{itemize}
+		\end{cvsubsection}
+	\end{cvsection}
+	
+	\begin{cvsection}{Technical Experience (Open Source)}
+		\begin{cvsubsection}{Projects}{}{}
+			\begin{itemize}
+				\item \textbf{Metro System Database Management} (2017). UI \& UX developed using custom databases. \textit{SQL, HTML, CSS.}
+
+				\item \textbf{lib-math} (2017 – ). Library in \textit{C} with 500+ interfaces include statistics \& cryptography. Portable to \textit{Python 3.8}
+					
+				\item \textbf{Speed Video} (2019).  Video player with 6× speed facility and Picture in picture support for Firefox. \textit{JavaScript.}
+				
+				\item \textbf{Material Design} (2016 --). Open design solutions such as textbook title pages, book format, file icons, etc.
+			\end{itemize}
+		\end{cvsubsection}
+		
+		\begin{cvsubsection}{Research}{}{}
+			\begin{itemize}
+				\item \textbf{JAAM Paper} (2018 -- 19). JAAM: Web Browser Security Framework. \href{https://www.github.com/jishanshaikh4/jaam/}{\textbf{PDF}}. \space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space[Prof. Deepak Singh Tomar]
+				
+				\item \textbf{Segmentation Paper:} (2019 --) Image Segmentation Optimization Technique. \href{https://www.github.com/jishanshaikh4/is-cv}{\textbf{LINK}}. \space\space\space\space\space\space\space\space\space\space\space\space\space[Prof. Jyoti Bharti]
+				
+				\item \textbf{Metro Paper} (2017 -- 18). Metro System Database Management. \href{https://www.github.com/jishanshaikh4/metro/}{\textbf{PDF}}. \space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space[Prof. Sweta Jain]
+				
+				\item \textbf{Planning Paper} (2017 --). Security Issues in Software Planning Process. \href{https://www.github.com/jishanshaikh4/}{\textbf{LINK}}. \space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space\space[Independent]
+				
+				%\item \textbf{Synchronized Calendar} (2003 – 2004). Desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users.  C\#.NET, SQL, XML
+				
+				%\item \textbf{Operating System} (2002).  UNIX-style OS with scheduler, file system, text editor and calculator. C
+			\end{itemize}
+		\end{cvsubsection}
+	\end{cvsection}
+	
+	\begin{cvsection}{Additional Experience and Awards}
+		\begin{cvsubsection}{}{}{}	
+			\begin{itemize}
+				\item \textbf{National Cadet Corps (NCC):} (2016 -- 19) Rank L. Corporal, Dance Coordinator, and Senior core team member.
+					\begin{itemize}
+						\item Earned C (with A grade) and B (with B grade) certificates from NCC Directorate MP/CG, India.
+						\item Attended 3 annual camps comprising 2 National Camps (NIC and AITC) and 1 Training camp (CATC).
+						\item Won 2 National Gold medals (1 individual and 1 team) at NIC, Maihar among 600 Cadets from all over India.
+					\end{itemize}
+				%\item \textbf{Campus Ambassador -- Internshala (2018 - 19):} 
+				%\item \textbf{Third Prize, Senior Design Projects:} Awarded 3rd prize for Synchronized Calendar project, out of 100 projects.
+				\item \textbf{Scholarships:} Merit-cum-means and INSPIRE (by Indian govt.) \& Encouragement and CM Merit (by State govt.)
+				
+				\item \textbf{Online Profiles:} Github, LinkedIn, Youtube, Twitter, Dribbble, Hackerrank, Interviewbit, Codechef, Lichess.
+			\end{itemize}
+		\end{cvsubsection}
+	\end{cvsection}
+
+	\begin{cvsection}{Languages and Technologies}
+		\begin{cvsubsection}{}{}{}	
+			\begin{itemize}
+				\item C++; C; Java; Python; Objective-C; C\#.NET; SQL; JavaScript; PHP; \LaTeX; HTML; CSS; MATLAB; etc.
+				\item VS Code; Atom; Kraken; GEdit; Eclipse; Netbeans; JetBrains Toolbox; Octave; OBS; etc.
+			\end{itemize}
+		\end{cvsubsection}
+	\end{cvsection}
+\end{document}
