@@ -15,3 +15,8 @@ Checkout the résumé (modern) [here](https://www.github.com/jishanshaikh4/resum
 Preview available here as:
 
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-1.png)
+
+
+## Suggestions
+
+All the suggestions and contributions are welcome!!
