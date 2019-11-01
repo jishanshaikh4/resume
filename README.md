@@ -12,10 +12,16 @@ Modern | PDF | [here](https://www.github.com/jishanshaikh4/resume/blob/master/ma
 Classic | PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/classic/main.pdf)
 
 Modern and classic are taken from the best cv ever templates.
+
 Preview available here as:
 
+### McDowell-Roboto:
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-1.png)
+
+### Modern-compact-default:
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-modern.png)
+
+### Classic-compact-Roboto:
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-classsic.png)
 
 
