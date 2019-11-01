@@ -9,12 +9,14 @@ Type | Name | Link |
 -----|------|------|
 McDowell | PDF + TeX | [here](https://github.com/jishanshaikh4/resume/blob/master/McDowell-CV/main.pdf) | 
 Modern | PDF | [here](https://www.github.com/jishanshaikh4/resume/blob/master/main.pdf). 
+Classic | PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/classic/main.pdf)
 
-Checkout the résumé (modern) [here](https://www.github.com/jishanshaikh4/resume/blob/master/main.pdf).
-
+Modern and classic are taken from the best cv ever templates.
 Preview available here as:
 
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-1.png)
+![](https://github.com/jishanshaikh4/resume/blob/master/main-modern.png)
+![](https://github.com/jishanshaikh4/resume/blob/master/main-classsic.png)
 
 
 ## Suggestions
