@@ -1,6 +1,12 @@
 # résumé
 My résumé in different formats and positions, but it matters less.
 
+## PERSONAL REPOSITORIES SOURCES
+
+- /Local/My CVs/GitHub
+- Overleaf instances
+- Templates from GDocs, MS Word, LibreOffice
+
 Not everyone gets the same version of me; which version do you want :)
 
 **NOTE: NOT EVERY DETAIL IS EXACT NOW AND NOT ALL LINKS ARE WORKING. SO DISCRETION REQUIRED, STILL WORKS ARE ORIGINAL.**
