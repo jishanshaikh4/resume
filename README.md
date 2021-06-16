@@ -1,3 +1,8 @@
+# resume
+
+**[SWEEP UPDATE #1] THIS IS THE README OF THE SWEEP UPDATE. PLEASE CHECK BACK LATER.**
+
+<!---
 # résumé
 My résumé in different formats and positions, but it matters less.
 
@@ -38,7 +43,7 @@ Preview available here as:
 ### Classic-compact-Roboto:
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-classsic.png)
 
-
+--->
 ## Suggestions
 
 All the suggestions and contributions are welcome!!
