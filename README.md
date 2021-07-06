@@ -1,12 +1,17 @@
-// WARNING for v0.1: soon to be deprecated.
+# RESUME/ 🖥️
 
-Changelog for v0.2:
-- New formats with complete sources
-- Convert them into ready to use templates
-- Add more creative items (usually suitable for designers and front-end devs)
-- Cover letter, Footer signature in similar design 
+// WARNING for v1: soon to be deprecated (messy).
 
-Thanks for all the suggestions from community!
+Changelog for v2:
+- [x] New formats with complete latex/image sources
+- [ ] Convert them into ready to use templates (online/offline)
+- [x] Add more creative items (usually suitable for designers and front-end devs).
+- [ ] Different positions focused e.g. non-tech positions
+- [x] ATS friendly ones!?
+- [ ] Cover letter, footer signature in similar design? 
+- [x] 10 Resume Tips and Tricks!! [Exclusive]
+
+Thanks for all the suggestions from the community! Almost all the changes will be incorporated in v2.
 
 Type | Name | Link | 
 -----|------|------|
@@ -24,17 +29,14 @@ Modern and classic are taken from the best cv ever templates :)
 <img src="https://github.com/jishanshaikh4/resume/blob/master/main-classsic.png" width=400, height=550 />
 
 <!--
+FOR GOD SAKE CHANGE THE SIZE OF THE IMAGES FOR PREVIEWS
 ![](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-1.png)
-
 ### Populars-2
 ![](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-2-1.png)
-
 ### McDowell-Roboto:
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-1.png)
-
 ### Modern-compact-default:
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-modern.png)
-
 ### Classic-compact-Roboto:
 ![](https://github.com/jishanshaikh4/resume/blob/master/main-classsic.png) -->
 
@@ -43,8 +45,9 @@ Modern and classic are taken from the best cv ever templates :)
 - /Local/My CVs/GitHub
 - Overleaf instances
 - Templates from GDocs, MS Word, LibreOffice
+- latex templates
 <!-- Overleaf, C, -->
 
 ## Suggestions
 
-All the suggestions and contributions are welcome!
+All the suggestions and contributions are welcome! Criticism included :)
