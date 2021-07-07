@@ -13,13 +13,13 @@ Changelog for v2:
 
 Thanks for all the suggestions from the community! Almost all the changes will be incorporated in v2.
 
-Type | Name | Link | 
------|------|------|
-McDowell | PDF + TeX | [here](https://github.com/jishanshaikh4/resume/blob/master/McDowell-CV/main.pdf) | 
-Modern | PDF | [here](https://www.github.com/jishanshaikh4/resume/blob/master/main.pdf). 
-Classic | PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/classic/main.pdf)
-Populars-1 | PNG and PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-1.png) and [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV.pdf)
-Populars-2 | PNG and PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-2-1.png) and [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-2.pdf)
+Type | Name | Link | Overleaf |
+-----|------|------|-----------|
+McDowell | PDF + TeX | [here](https://github.com/jishanshaikh4/resume/blob/master/McDowell-CV/main.pdf) | link |
+Modern | PDF | [here](https://www.github.com/jishanshaikh4/resume/blob/master/main.pdf) | link |
+Classic | PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/classic/main.pdf) | link |
+Populars-1 | PNG and PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-1.png) and [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV.pdf) | link |
+Populars-2 | PNG and PDF | [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-2-1.png) and [here](https://github.com/jishanshaikh4/resume/blob/master/Populars/Jishan_Shaikh_CV-2.pdf) | link |
 
 Modern and classic are taken from the best cv ever templates :)
 
